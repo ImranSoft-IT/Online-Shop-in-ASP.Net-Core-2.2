@@ -1,0 +1,118 @@
+﻿@model IEnumerable<OnlineShop.Models.Products>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<br />
+<br />
+<div class="row">
+    <div class="col-6">
+        <h2 class="text-info">Products List</h2>
+    </div>
+    <div class="col-6 text-right">
+        <a asp-action="Create" class="btn btn-info">&nbsp;<i class="fas fa-plus"></i> Add New Product</a>
+    </div>
+</div>
+<form method="post">
+    <div class="row">
+        <div class="col-3">
+            <input type="number" class="form-control" name="lowAmount" placeholder="Minimum Amount" />
+        </div>
+        <div class="col-3">
+            <input type="number" class="form-control" name="largeAmount" placeholder="Maximum Amount" />
+        </div>
+        <div class="col-3">
+            <input type="submit" value="Search" class="btn btn-success" />
+        </div>
+        <div class="col-3">
+
+        </div>
+    </div>
+</form>
+<br />
+<div>
+    <table class="table table-striped border" id="myTable">
+        <thead>
+            <tr class="table-info">
+                <th>
+                    @Html.DisplayNameFor(model => model.Name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Price)
+                </th>
+                @*<th>
+                    @Html.DisplayNameFor(model => model.Image)
+                </th>*@
+                <th>
+                    @Html.DisplayNameFor(model => model.ProductColor)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.IsAvailable)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ProductTypes)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.SerialTags)
+                </th>
+                <th></th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Price)
+                    </td>
+                    @*<td>
+                        @Html.DisplayFor(modelItem => item.Image)
+                    </td>*@
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ProductColor)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.IsAvailable)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ProductTypes.ProductType)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.SerialTags.SerialTag)
+                    </td>
+                    <td></td>
+                    <td style="width:150px">
+                        <div class="btn-group">
+                            <a asp-action="Edit" asp-controller="Products" class="btn btn-primary" asp-route-id="@item.Id"><i class="far fa-edit"></i></a>
+                            <a asp-action="Details" asp-controller="Products" class="btn btn-success" asp-route-id="@item.Id"><i class="fas fa-list"></i></a>
+                            <a asp-action="Delete" asp-controller="Products" class="btn btn-danger" asp-route-id="@item.Id"><i class="fas fa-trash-alt"></i></a>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+
+    </table>
+</div>
+
+@section Scripts{
+    <script src="//cdn.jsdelivr.net/npm/alertifyjs@1.13.1/build/alertify.min.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            $(document).ready( function () {
+                $('#myTable').DataTable({
+                    dom: 'Bfrtip',
+                    buttons: ['copy', 'csv', 'excel', 'pdf', 'print']
+                });
+            });
+            var create = '@TempData["Create"]';
+            if (create != null) {
+                alertify.success(create);
+            }
+        })
+    </script>
+}

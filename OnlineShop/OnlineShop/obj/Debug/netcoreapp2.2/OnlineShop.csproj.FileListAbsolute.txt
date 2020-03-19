@@ -1,0 +1,171 @@
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\bin\Debug\netcoreapp2.2\appsettings.Development.json
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\bin\Debug\netcoreapp2.2\appsettings.json
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\bin\Debug\netcoreapp2.2\OnlineShop.deps.json
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\bin\Debug\netcoreapp2.2\OnlineShop.runtimeconfig.json
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\bin\Debug\netcoreapp2.2\OnlineShop.runtimeconfig.dev.json
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\bin\Debug\netcoreapp2.2\OnlineShop.dll
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\bin\Debug\netcoreapp2.2\OnlineShop.pdb
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\bin\Debug\netcoreapp2.2\OnlineShop.Views.dll
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\bin\Debug\netcoreapp2.2\OnlineShop.Views.pdb
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\OnlineShop.RazorAssemblyInfo.cache
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\OnlineShop.RazorAssemblyInfo.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\OnlineShop.AssemblyInfoInputs.cache
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\OnlineShop.AssemblyInfo.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\OnlineShop.TagHelpers.input.cache
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\OnlineShop.TagHelpers.output.cache
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\OnlineShop.RazorCoreGenerate.cache
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\OnlineShop.RazorTargetAssemblyInfo.cache
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\OnlineShop.RazorTargetAssemblyInfo.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\OnlineShop.Views.pdb
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\OnlineShop.dll
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\OnlineShop.pdb
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\OnlineShop.csproj.CopyComplete
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Privacy.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Index.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Create.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ButtonPartial.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Edit.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Details.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Delete.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\SerialTags\Create.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\SerialTags\Delete.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\SerialTags\Details.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\SerialTags\Edit.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\SerialTags\Index.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Create.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Delete.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Details.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Edit.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Index.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Details.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Cart.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Order\Checkout.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Home Practice\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\OnlineShop.csprojAssemblyReference.cache
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\bin\Debug\netcoreapp2.2\appsettings.Development.json
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\bin\Debug\netcoreapp2.2\appsettings.json
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\bin\Debug\netcoreapp2.2\OnlineShop.deps.json
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\bin\Debug\netcoreapp2.2\OnlineShop.runtimeconfig.json
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\bin\Debug\netcoreapp2.2\OnlineShop.runtimeconfig.dev.json
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\bin\Debug\netcoreapp2.2\OnlineShop.dll
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\bin\Debug\netcoreapp2.2\OnlineShop.pdb
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\bin\Debug\netcoreapp2.2\OnlineShop.Views.dll
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\bin\Debug\netcoreapp2.2\OnlineShop.Views.pdb
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\OnlineShop.csprojAssemblyReference.cache
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\OnlineShop.RazorAssemblyInfo.cache
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\OnlineShop.RazorAssemblyInfo.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\OnlineShop.AssemblyInfoInputs.cache
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\OnlineShop.AssemblyInfo.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\OnlineShop.TagHelpers.input.cache
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\OnlineShop.TagHelpers.output.cache
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\OnlineShop.RazorCoreGenerate.cache
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Create.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Delete.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Details.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Edit.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Index.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Create.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Delete.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Details.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Edit.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Index.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\SerialTags\Create.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\SerialTags\Delete.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\SerialTags\Details.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\SerialTags\Edit.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\SerialTags\Index.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Cart.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Details.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Privacy.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Order\Checkout.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ButtonPartial.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\OnlineShop.RazorTargetAssemblyInfo.cache
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\OnlineShop.RazorTargetAssemblyInfo.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\OnlineShop.Views.pdb
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\OnlineShop.dll
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\OnlineShop.pdb
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\OnlineShop.csproj.CopyComplete
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\bin\Debug\netcoreapp2.2\appsettings.Development.json
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\bin\Debug\netcoreapp2.2\appsettings.json
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\bin\Debug\netcoreapp2.2\OnlineShop.deps.json
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\bin\Debug\netcoreapp2.2\OnlineShop.runtimeconfig.json
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\bin\Debug\netcoreapp2.2\OnlineShop.runtimeconfig.dev.json
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\bin\Debug\netcoreapp2.2\OnlineShop.dll
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\bin\Debug\netcoreapp2.2\OnlineShop.pdb
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\bin\Debug\netcoreapp2.2\OnlineShop.Views.dll
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\bin\Debug\netcoreapp2.2\OnlineShop.Views.pdb
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\OnlineShop.csprojAssemblyReference.cache
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\OnlineShop.RazorAssemblyInfo.cache
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\OnlineShop.RazorAssemblyInfo.cs
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\OnlineShop.AssemblyInfoInputs.cache
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\OnlineShop.AssemblyInfo.cs
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\OnlineShop.TagHelpers.input.cache
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\OnlineShop.TagHelpers.output.cache
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\OnlineShop.RazorCoreGenerate.cache
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Create.cshtml.g.cs
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Delete.cshtml.g.cs
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Details.cshtml.g.cs
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Edit.cshtml.g.cs
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Products\Index.cshtml.g.cs
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Create.cshtml.g.cs
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Delete.cshtml.g.cs
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Details.cshtml.g.cs
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Edit.cshtml.g.cs
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\ProductTypes\Index.cshtml.g.cs
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\SerialTags\Create.cshtml.g.cs
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\SerialTags\Delete.cshtml.g.cs
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\SerialTags\Details.cshtml.g.cs
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\SerialTags\Edit.cshtml.g.cs
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\SerialTags\Index.cshtml.g.cs
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Cart.cshtml.g.cs
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Details.cshtml.g.cs
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Home\Privacy.cshtml.g.cs
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\Order\Checkout.cshtml.g.cs
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ButtonPartial.cshtml.g.cs
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\OnlineShop.RazorTargetAssemblyInfo.cache
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\OnlineShop.RazorTargetAssemblyInfo.cs
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\OnlineShop.Views.pdb
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\OnlineShop.dll
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\OnlineShop.pdb
+F:\ESAD C-Sharp\ASP.NET-CORE\Project Module-09\OnlineShop\OnlineShop\obj\Debug\netcoreapp2.2\OnlineShop.csproj.CopyComplete
